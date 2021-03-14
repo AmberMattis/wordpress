@@ -1,17 +1,22 @@
-# wordpress
-<hr>
+# Wordpress
+<hr style="height: 5px">
 
 ![wordpress banner](img/screenshop.png)
 
-<hr>
+<hr style="height: 5px">
 <h2>About</h2>
+
 <p> Currently learning and gaining experiance working with wordpress.</p>
+
 <hr>
+
 <h2> View Site </h2>
 <p> If you'd like to view my current website progress, click the link below</p>
 <a href="https://amberlearningwp.com">amberlearningwp.com</a>
+
 <hr>
-<h2 style="color: #ffd5cd">Contributors</h2>
+
+<h2>Contributors</h2>
 
 <ul>
 <li><h3>Amber Mattis</h3>
