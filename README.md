@@ -1,5 +1,9 @@
 # wordpress
 <hr>
+
+![wordpress banner](img/screenshop.png)
+
+<hr>
 <h2>About</h2>
 <p> Currently learning and gaining experiance working with wordpress.</p>
 <hr>
@@ -16,5 +20,5 @@
         <li><a href="https://www.linkedin.com/in/amber-mattis/">Linkedin</a></li>
         <li><a href="https://amber.mattis2@gmail.com">Email</a></li>
     </ul>
-
 </li>
+</ul>
